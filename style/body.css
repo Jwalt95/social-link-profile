@@ -1,0 +1,8 @@
+.body-style {
+    display: grid;
+    place-items: center;
+    margin: 0;
+    height: 100vh;
+    background-color: hsl(0, 0%, 8%);
+    font-family: 'Inter', sans-serif;
+}
